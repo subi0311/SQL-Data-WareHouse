@@ -1,4 +1,4 @@
-#Queries for load procedure of bronze layer as well as performing bulk insert
+###Queries for load procedure of bronze layer as well as performing bulk insert
 EXEC bronze.load_bronze
 
 	CREATE OR ALTER PROCEDURE bronze.load_bronze as 
