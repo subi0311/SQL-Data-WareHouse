@@ -5,7 +5,7 @@ A structured overview of **Data Warehouse Architecture**, showcasing how raw dat
 ## 📌 Architecture Overview
 
 The SQL Warehouse follows a multi-layered architecture that organizes data transformation and consumption through the **Bronze**, **Silver**, and **Gold** layers.
-![image alt]()
+![image alt](https://github.com/subi0311/SQL-Data-WareHouse/blob/main/warehouse%20architecture.jpg?raw=true)
 ---
 
 ## 🧩 1. Sources
